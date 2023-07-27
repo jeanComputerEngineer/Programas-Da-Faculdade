@@ -1,7 +1,16 @@
 # Primeiros Exercicios de Algoritmos em Python.
  Primeiros Exercícios Algoritmos Feitos Por Mim.
-#Os enunciados estão logo abaixo e em dois arquivos pdfs. Os do cursoemvídeo apenas estarão disponíveis nos videos do curso de python.
-#Não estão todos completos, são apenas os que eu fiz naquela época. Caso você veja o enunciado e tenha alguma dúvida, pode mandar aí.
+
+Os enunciados estão logo abaixo e em dois arquivos pdfs. Os do cursoemvídeo apenas estarão disponíveis nos videos do curso de python.
+
+Não estão todos completos, são apenas os que eu fiz naquela época. Caso você veja o enunciado e tenha alguma dúvida, pode mandar aí :)
+
+
+
+
+
+
+
 
 17/08 - Exercícios de fixação sobre recursividade:
 
